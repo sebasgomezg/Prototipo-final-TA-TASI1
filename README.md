@@ -31,9 +31,9 @@ Para probar la aplicación, utiliza las siguientes credenciales simuladas:
 
 - **Usuario:** Sebastian
 - **Método de acceso:** Cualquiera (Cuenta, Tarjeta o DNI)
-- **PIN:** `123456`
+- **PIN:** `1234`
 
-> **Nota:** Si ingresas un PIN incorrecto 3 veces, se mostrará una pantalla de bloqueo simulada. El PIN correcto siempre es `123456`.
+> **Nota:** Si ingresas un PIN incorrecto 3 veces, se mostrará una pantalla de bloqueo simulada. El PIN correcto siempre es `1234`.
 
 ## Datos para Pruebas
 
