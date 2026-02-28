@@ -4,7 +4,7 @@ Este proyecto es una aplicación web progresiva (PWA) construida con React que s
 
 ## Enlaces del Proyecto
 
-- **Google AI Studio:** [Ver Aplicación](https://ai.studio/apps/drive/1MuhzVhuUQE8ditUZ71KeawuLos9cXcpl)
+- **Google AI Studio:** [Ver Aplicación](https://ai.studio/apps/edd26aa3-65e6-427b-a7ed-d864b53be7e8)
 - **Documentación:** [Ver Documento](https://docs.google.com/document/d/1eWgnBv2hy6Iwvh_UMATi_YH9_Ej9F7VLZiAyk8U6AOE/edit?usp=sharing)
 
 ## Integrantes
